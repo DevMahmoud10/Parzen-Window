@@ -1,0 +1,6 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task5\Pattern_Task5\bin\Debug\Pattern_Task5.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task5\Pattern_Task5\bin\Debug\Pattern_Task5.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task5\Pattern_Task5\bin\Debug\Pattern_Task5.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task5\Pattern_Task5\obj\Debug\Pattern_Task5.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task5\Pattern_Task5\obj\Debug\Pattern_Task5.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task5\Pattern_Task5\obj\Debug\Pattern_Task5.pdb
